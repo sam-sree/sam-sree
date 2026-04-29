@@ -7,7 +7,7 @@ IT student at Manipal Institute of Technology, Bangalore — building at the int
 
 ⚡⚡Projects
 
-Group Project- Aegis — AWS cost intelligence & anomaly detection platform
+Group Project- Aegis — AWS cost intelligence & anomaly detection platform- under refinement
 
 🖊️ **Collaborative Whiteboard** — real-time multi-user canvas with live cursor sync & drawing · `WebSockets` `Socket.io` `Node.js` 
 
