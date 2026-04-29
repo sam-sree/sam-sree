@@ -12,10 +12,13 @@ Group Project- Aegis — AWS cost intelligence & anomaly detection platform
 🖊️ **Collaborative Whiteboard** — real-time multi-user canvas with live cursor sync & drawing · `WebSockets` `Socket.io` `Node.js` 
 
 🗓️ **Mood Calendar** — daily mood tracking with visual heatmap & reflection log · `React` `CSS3` 
+....and more
+
+
 
 📚📚Research: Quantum cryptography — co-authoring paper
 
-....and more
+
 
 
 
