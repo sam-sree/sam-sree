@@ -16,7 +16,7 @@ Group Project- Aegis — AWS cost intelligence & anomaly detection platform
 🧠 **Wumpus World Logical Agent** · `Python` `Tkinter` `Forward Chaining` `BFS`
 Propositional logic agent navigating a 4×4 grid using forward-chaining inference and BFS pathfinding. Stress-tested across 100 random worlds with a Tkinter GUI.
 
-**📄 Quantum Cryptography Research**
+
 ....and more
 
 
