@@ -1,6 +1,6 @@
-##Hi!
+Hi!
 
-I'm Samyukta Sreekanth
+I'm ***Samyukta Sreekanth***
 
 IT student at Manipal Institute of Technology, Bangalore — building at the intersection of AI engineering, cloud-native systems, and computer vision. I turn real problems into working systems: pipelines that run in prod, not just notebooks.
 
