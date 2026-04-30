@@ -1,10 +1,7 @@
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=hi,%20i'm%20samyukta%20sreekanth%20👾&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&color=0:7F5AF0,100:FF61D2" />
-</p>
-<h3 align="center">IT student at Manipal Institute of Technology, Bangalore. Building at the intersection of AI engineering, cloud-native systems, and computer vision. I turn real problems into working systems: pipelines that run in prod, not just notebooks.
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=1&pause=100000&color=FF61D2&center=true&vCenter=true&width=800&lines=hi%2C+i%27m+samyukta+sreekanth+👾" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=7F5AF0&center=true&vCenter=true&width=500&lines=building+cool+stuff...;training+models...;designing+interfaces...;breaking+and+fixing+things" />
