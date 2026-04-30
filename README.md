@@ -1,7 +1,7 @@
 
 
 <h1 align="center">hi, i'm samyukta sreekanth 👾</h1>
-<h3 align="center">IT student at Manipal Institute of Technology, Bangalore — building at the intersection of AI engineering, cloud-native systems, and computer vision. I turn real problems into working systems: pipelines that run in prod, not just notebooks.
+<h3 align="center">IT student at Manipal Institute of Technology, Bangalore. Building at the intersection of AI engineering, cloud-native systems, and computer vision. I turn real problems into working systems: pipelines that run in prod, not just notebooks.
 </h3>
 
 <p align="center">
