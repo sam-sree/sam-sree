@@ -1,6 +1,19 @@
 
 
-<h1 align="center">hi, i'm samyukta sreekanth 👾</h1>
+<h1 align="center">
+  <svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#7F5AF0"/>
+        <stop offset="100%" stop-color="#FF61D2"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      fill="url(#grad)" font-family="JetBrains Mono, monospace" font-size="28">
+      hi, i'm samyukta sreekanth 👾
+    </text>
+  </svg>
+</h1>
 <h3 align="center">IT student at Manipal Institute of Technology, Bangalore. Building at the intersection of AI engineering, cloud-native systems, and computer vision. I turn real problems into working systems: pipelines that run in prod, not just notebooks.
 </h3>
 
