@@ -74,21 +74,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 📊 stats  (live)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sam-sree&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-sree&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sam-sree&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ### ⚡ current focus
 - building ai-powered tools  
 - learning deep learning from scratch  
